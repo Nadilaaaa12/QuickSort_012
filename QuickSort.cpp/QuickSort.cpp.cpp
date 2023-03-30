@@ -7,6 +7,7 @@ int cmp_count = 0; // number of comparasion
 int mov_count = 0; // number of data movements
 int n;
 
+
 void input() {
 	while (true)
 	{
@@ -17,5 +18,6 @@ void input() {
 			break;
 		else
 			cout << "\nMaksimum panjang array adalah 20" << endl;
+		rr
 	}
 }
